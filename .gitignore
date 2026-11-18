@@ -1,0 +1,3 @@
+reels/salida/*/tmp/
+reels/salida/*.log
+__pycache__/

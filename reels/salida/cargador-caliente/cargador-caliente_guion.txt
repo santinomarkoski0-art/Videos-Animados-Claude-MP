@@ -1,0 +1,15 @@
+GUION – ¿Por qué se calienta el cargador?
+
+[0:00–0:03] ¿Por qué tu cargador se calienta?
+[0:03–0:06] No está roto: es pura física.
+[0:06–0:12] Del enchufe salen 220 voltios, pero tu celu solo usa 5.
+[0:12–0:19] Adentro, un convertidor baja ese voltaje miles de veces por segundo.
+[0:19–0:25] Ninguna conversión es perfecta: una parte de la energía se pierde como calor.
+[0:25–0:31] Por eso la carga rápida calienta más. Tibio es normal; si quema, desenchufalo.
+[0:31–0:35] Mandáselo a quien creía que su cargador estaba roto.
+
+TEXTO PARA LA VOZ EN OFF (copiar y pegar):
+
+¿Por qué tu cargador se calienta? No está roto: es pura física. Del enchufe salen 220 voltios, pero tu celu solo usa 5. Adentro, un convertidor baja ese voltaje miles de veces por segundo. Ninguna conversión es perfecta: una parte de la energía se pierde como calor. Por eso la carga rápida calienta más. Tibio es normal; si quema, desenchufalo. Mandáselo a quien creía que su cargador estaba roto.
+
+Duración: 36 s · palabras: 69
